@@ -1,0 +1,4 @@
+- clean: ['~']
+
+- link:
+    ~/.gitignore: config/gitignore
